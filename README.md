@@ -1,6 +1,6 @@
 # Pantoner
 
-![Screenshot](./Screenshot.png)
+![screenshot](./screenshot.png)
 
 ## Description
 
